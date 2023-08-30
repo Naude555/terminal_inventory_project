@@ -125,4 +125,4 @@ python inventory.py
 
 
 ## Credits
-Naude Opperman
+Naude Opperman [github](https://github.com/Naude555)
