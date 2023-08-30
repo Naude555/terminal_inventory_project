@@ -15,7 +15,7 @@
   - [`main()`](#main)
 - [Running the Program](#running-the-program)
   - [Welcome Menu](#welcome-menu)
-- [Note](#note)
+- [Credits](#Credits)
 
 ## Introduction
 
@@ -95,3 +95,6 @@ python inventory.py
 ### Welcome Menu
 ![image](https://github.com/Naude555/terminal_inventory_project/assets/60476722/62cbbc6f-0004-4ea8-844b-fc688415f172)
 
+
+## Credits
+Naude Opperman
