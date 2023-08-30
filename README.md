@@ -89,6 +89,7 @@ Execute the `inventory.py` script using the following command in your terminal:
 
 ```bash
 python inventory.py
+```
 
 
 ![image](https://github.com/Naude555/terminal_inventory_project/assets/60476722/62cbbc6f-0004-4ea8-844b-fc688415f172)
