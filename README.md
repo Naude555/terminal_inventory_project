@@ -15,7 +15,14 @@
   - [`main()`](#main)
 - [Running the Program](#running-the-program)
   - [Welcome Menu](#welcome-menu)
-- [Credits](#Credits)
+  - [Load Data](#load-data)
+  - [Capture New Shoe](#capture-new-shoe)
+  - [View All Shoes](#view-all-shoes)
+  - [Re-stock](#re-stock)
+  - [Search for a shoe](#search-for-a-shoe)
+  - [Calculate value per item](#calculate-value-per-item)
+  - [Find Shoe with highest quantity](#find-shoe-with-highest-quantiy)
+ - [Credits](#Credits)
 
 ## Introduction
 
@@ -94,6 +101,27 @@ python inventory.py
 
 ### Welcome Menu
 ![image](https://github.com/Naude555/terminal_inventory_project/assets/60476722/62cbbc6f-0004-4ea8-844b-fc688415f172)
+
+### Load Data 
+![image](https://github.com/Naude555/terminal_inventory_project/assets/60476722/5be77d0b-e1dc-40b3-b83c-503d4608f760)
+
+### Capture New Shoe
+![image](https://github.com/Naude555/terminal_inventory_project/assets/60476722/0a26e98b-644c-4e8c-b274-11c7428f6613)
+
+### View all shoes
+![image](https://github.com/Naude555/terminal_inventory_project/assets/60476722/135fccde-9b6f-4d7b-9ed6-3468e53b4990)
+
+### Re-stock
+![image](https://github.com/Naude555/terminal_inventory_project/assets/60476722/51bec7a6-36ce-4608-bbba-2ff9616b44cc)
+
+### Search for a shoe
+![image](https://github.com/Naude555/terminal_inventory_project/assets/60476722/b18d1144-df68-449c-9007-7c936841342f)
+
+### Calculate value per item
+![image](https://github.com/Naude555/terminal_inventory_project/assets/60476722/382be491-73d6-4cd7-bdf7-c00137709c81)
+
+### Find shoe with highest quantitiy 
+![image](https://github.com/Naude555/terminal_inventory_project/assets/60476722/a7a0ddb6-0789-483a-8f88-cc01630ed338)
 
 
 ## Credits
