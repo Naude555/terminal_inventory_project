@@ -1,5 +1,23 @@
 # Shoe Inventory Management System
 
+- [Introduction](#shoe-inventory-management-system)
+- [Getting Started](#getting-started)
+- [Files](#files)
+- [Class: Shoe](#class-shoe)
+- [Functions](#functions)
+  - [`read_shoes_data()`](#read_shoes_data)
+  - [`capture_shoes()`](#capture_shoes)
+  - [`view_all()`](#view_all)
+  - [`re_stock()`](#re_stock)
+  - [`search_shoe()`](#search_shoe)
+  - [`value_per_item()`](#value_per_item)
+  - [`highest_qty()`](#highest_qty)
+  - [`main()`](#main)
+- [Running the Program](#running-the-program)
+- [Note](#note)
+
+## Introduction
+
 This Python program is designed to read data from the text file `inventory.txt` and perform various operations on the data to prepare it for presentation to your managers. The program is structured with a class named `Shoe` and several functions to handle different tasks related to shoe inventory management.
 
 ## Getting Started
@@ -67,6 +85,10 @@ Creates a menu that allows the user to execute each of the above functions.
 
 Execute the `inventory.py` script using the following command in your terminal:
 
+
+
 ```bash
 python inventory.py
 
+
+![image](https://github.com/Naude555/terminal_inventory_project/assets/60476722/62cbbc6f-0004-4ea8-844b-fc688415f172)
