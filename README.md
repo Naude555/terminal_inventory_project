@@ -21,7 +21,7 @@
   - [Re-stock](#re-stock)
   - [Search for a shoe](#search-for-a-shoe)
   - [Calculate value per item](#calculate-value-per-item)
-  - [Find Shoe with highest quantity](#find-shoe-with-highest-quantiy)
+  - [Find Shoe with highest quantity](#find-shoe-with-highest-quantitiy)
  - [Credits](#Credits)
 
 ## Introduction
